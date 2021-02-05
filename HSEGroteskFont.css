@@ -1,0 +1,41 @@
+@font-face {
+font-family: 'HSEGrotesk';
+src: url('https://github.com/kirilltarelkin/HSEGrotesk/raw/main/AkzidenzGroteskPro-Super.woff') format('woff');
+font-weight: 100;
+font-style: thin;
+}
+
+@font-face {
+font-family: 'HSEGrotesk';
+src: url('https://github.com/kirilltarelkin/HSEGrotesk/raw/main/AkzidenzGroteskPro-Ext.woff') format('woff');
+font-weight: 300;
+font-style: light;
+}
+
+@font-face {
+font-family: 'HSEGrotesk';
+src: url('https://github.com/kirilltarelkin/HSEGrotesk/raw/main/AktivGroteskCorp-Regular.woff') format('woff');
+font-weight: 400;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'HSEGrotesk';
+src: url('https://github.com/kirilltarelkin/HSEGrotesk/raw/main/AktivGroteskCorp-Medium.woff') format('woff');
+font-weight: 500;
+font-style: medium;
+}
+
+@font-face {
+font-family: 'HSEGrotesk';
+src: url('https://github.com/kirilltarelkin/HSEGrotesk/raw/main/AktivGroteskCorp-Bold.woff') format('woff');
+font-weight: 600;
+font-style: semibold;
+}
+
+@font-face {
+font-family: 'HSEGrotesk';
+src: url('https://github.com/kirilltarelkin/HSEGrotesk/raw/main/AkzidenzGroteskPro-MdEx.woff') format('woff');
+font-weight: 700;
+font-style: bold;
+}
